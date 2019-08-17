@@ -1,7 +1,7 @@
 ![Splash logo](splash-theme-vscode-whale-text.png)
 
 
-# Splash - Make up for beautiful web code 💄 (js, css, html)
+# Make up for beautiful web code 💄 (js, css, html)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/Jonas.splash.svg)](https://marketplace.visualstudio.com/items?itemName=Jonas.splash)
 
