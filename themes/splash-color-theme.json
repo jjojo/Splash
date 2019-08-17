@@ -1,5 +1,5 @@
 {
-	"name": "splash",
+	"name": "Splash",
   "type": "dark",
 
 	"colors": {
@@ -22,7 +22,7 @@
     "editorWidget.border": "#00B1AA",
     
     "breadcrumb.background": "#232223",
-    "breadcrumb.foreground": "#7ED07Eaa",
+    "breadcrumb.foreground": "#ffffff5d",
 
 		"notifications.background": "#232223",
 		
@@ -34,10 +34,8 @@
 		"panelTitle.inactiveForeground": "#C6C9CD",
 		"statusBar.background": "#232223",
 		"errorForeground": "#03BEFC",
-		"input.background": "#D1C1B0",
-		"input.border": "#00B1AA",
-		"input.foreground": "#403B36",
-		"input.placeholderForeground": "#403B3699",
+		"input.border": "#00b1abb7",
+		"input.placeholderForeground": "#ffffff5d",
 		"list.activeSelectionBackground": "#373B3E",
 		"list.activeSelectionForeground": "#FF8C00",
 		"list.inactiveSelectionBackground": "#373B3E",
@@ -331,14 +329,14 @@
       "scope": "invalid",
       "settings": {
         "background": "#ff2c83",
-        "foreground": "#C6C9CDfff"
+        "foreground": "#C6C9CDff"
       }
     },
     {
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#C6C9CDfff",
+        "foreground": "#C6C9CDff",
         "background": "#d3423e"
       }
     },
