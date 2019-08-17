@@ -1,4 +1,4 @@
-<h1>Splash - Make up for beautiful web code 💄</h1>
+# Splash - Make up for beautiful web code 💄 (js, css, html)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/Jonas.splash.svg)](https://marketplace.visualstudio.com/items?itemName=Jonas.splash)
 
