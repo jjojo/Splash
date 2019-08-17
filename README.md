@@ -8,9 +8,9 @@
 > I found I could say things with color and shapes that I couldn’t say any other way – things I had no words for.\
 > --  [Georgia O’Keeffe](https://en.wikipedia.org/wiki/Georgia_O%27Keeffe)
 
+Splash will be a work in progress for a while so please be patient. This is one of my many passion projects so I only work on it when I feel like and have some time to spare. However, if you feel like I got something good going here and wanna help out, no one would be happier than me 😃 \
+Just make a pull request or file an issue and I'll take a look at it.
 
-
-Splash is a work in progress theme. It is optimized for web. I'll show you soon enough but you shuld wait for the 1.0.0 release 😉
 
 # Installation
 
