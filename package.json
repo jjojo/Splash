@@ -1,0 +1,24 @@
+{
+    "name": "Splash",
+    "displayName": "Splash",
+    "description": "Make up for beutiful web code 💄",
+    "repository": "https://github.com/jjojo/Splash",
+    "version": "0.0.3",
+    "publisher": "Jonas",
+    "icon": "splash-theme-vscode-whale.png",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Splash",
+                "uiTheme": "vs-dark",
+                "path": "./themes/splash-color-theme.json"
+            }
+        ]
+    }
+}
