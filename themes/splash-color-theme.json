@@ -213,7 +213,9 @@
     },
     {
       "name": "Storage type",
-      "scope": "storage.type",
+      "scope": [
+        "storage.type",
+      ],
       "settings": {
         "foreground": "#F2E827"
       }
@@ -931,6 +933,13 @@
       }
     },
     {
+      "name": "Storage control Clojure",
+      "scope": "storage.control.clojure",
+      "settings": {
+        "foreground": "#FF6347"
+      }
+    },
+    {
       "name": "Go Function Calls",
       "scope": "source.go meta.function-call.go",
       "settings": {
@@ -1048,7 +1057,7 @@
       "name": "JavaScript Classes",
       "scope": "meta.class entity.name.type.class.js",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#fff"
       }
     },
     {
