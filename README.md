@@ -11,6 +11,22 @@
 Splash will be a work in progress for a while so please be patient. This is one of my many passion projects so I only work on it when I feel like and have some time to spare. However, if you feel like I got something good going here and wanna help out, no one would be happier than me 😃 \
 Just make a pull request or file an issue and I'll take a look at it.
 
+# Have a look 👀
+### Some Native JavaScript
+![nativeJavaScript](demo-images/nativeJavaScript.png)
+
+### Some HTML
+![HTML](demo-images/HTML.png)
+
+### Some CSS
+![CSS](demo-images/CSS.png)
+
+### Oh, and how about a peek at some libs/framewoks. Here is React and Vue
+<span>
+  <img src="demo-images/reactJavaScript.png" width="48%" /> 
+  <img src="demo-images/Vuejs.png" width="48%" />
+</span>
+
 
 # Installation
 
