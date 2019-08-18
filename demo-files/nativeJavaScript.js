@@ -12,8 +12,6 @@ const object = {
   orIsIt: false,
 }
 
-console.log(object.isThis)
-
 class Sale {
   constructor(price) {
     ;[this.decoratorsList, this.price] = [[], price]
