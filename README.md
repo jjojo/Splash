@@ -23,8 +23,8 @@ Just make a pull request or file an issue and I'll take a look at it.
 
 ### Oh, and how about a peek at some libs/framewoks. Here is React and Vue
 <span>
-  <img src="demo-images/reactJavaScript.png" width="48%" /> 
-  <img src="demo-images/Vuejs.png" width="48%" />
+  <img src="https://github.com/jjojo/Splash/blob/master/demo-images/reactJavaScript.png?raw=true" width="48%" /> 
+  <img src="https://github.com/jjojo/Splash/blob/master/demo-images/Vuejs.png?raw=true" width="48%" />
 </span>
 
 
