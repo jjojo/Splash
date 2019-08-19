@@ -231,7 +231,7 @@
       "name": "Class name",
       "scope": ["entity.name.class", "meta.class entity.name.type.class"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#fff"
       }
     },
     {
@@ -743,7 +743,7 @@
         "punctuation.definition.list"
       ],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#fff"
       }
     },
     {
@@ -989,7 +989,7 @@
       "name": "C++ Meta Namespace",
       "scope": ["meta.namespace-block.cpp"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#fff"
       }
     },
     {
@@ -1010,7 +1010,7 @@
       "name": "C++ Variable Parameter",
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#fff"
       }
     },
     {
@@ -1520,7 +1520,7 @@
       "name": "TypeScript[React] Entity Name Types",
       "scope": ["entity.name.type.ts", "entity.name.type.tsx"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#fff"
       }
     },
     {
@@ -1573,7 +1573,7 @@
       "name": "YAML Entity Name Tags",
       "scope": "entity.name.tag.yaml",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#fff"
       }
     },
     {
@@ -1606,14 +1606,14 @@
       "name": "TypeScript Classes",
       "scope": "meta.class entity.name.type.class.tsx",
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#fff"
       }
     },
     {
       "name": "TypeScript Entity Name Type",
       "scope": ["entity.name.type.tsx", "entity.name.type.module.tsx"],
       "settings": {
-        "foreground": "#111111"
+        "foreground": "#fff"
       }
     },
     {
