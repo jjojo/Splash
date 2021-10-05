@@ -3,7 +3,7 @@
     "displayName": "Splash",
     "description": "Make up for beutiful web code 💄",
     "repository": "https://github.com/jjojo/Splash",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "publisher": "Jonas",
     "icon": "splash-theme-vscode-whale.png",
     "engines": {
