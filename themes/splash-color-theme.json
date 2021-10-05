@@ -113,7 +113,8 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#ffffff5d"
+        "foreground": "#ffffff5d",
+        "fontStyle": "italic"
       }
     },
     {
