@@ -3,7 +3,10 @@
 
 # Make up for beautiful web code 💄 (js, css, html)
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/Jonas.splash.svg)](https://marketplace.visualstudio.com/items?itemName=Jonas.splash)
+![https://vsmarketplacebadges.dev/version/Jonas.splash.svg](https://vsmarketplacebadges.dev/version/Jonas.splash.svg)
+![https://vsmarketplacebadges.dev/installs-short/Jonas.splash.svg](https://vsmarketplacebadges.dev/installs-short/Jonas.splash.svg)
+![https://vsmarketplacebadges.dev/downloads-short/Jonas.splash.svg](https://vsmarketplacebadges.dev/downloads-short/Jonas.splash.svg)
+
 
 > I found I could say things with color and shapes that I couldn’t say any other way – things I had no words for.\
 > --  [Georgia O’Keeffe](https://en.wikipedia.org/wiki/Georgia_O%27Keeffe)
